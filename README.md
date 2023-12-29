@@ -1,7 +1,8 @@
-#AI Web Deployment#
+##AI Web Deployment
 
 Projek ini untuk mendeteksi citra tangan gunting, batu, dan kertas menggunakan dataset rps
 Berikut adalah sample dari Dataset
+
 ![image](https://github.com/noviaadelia/Web-Deployment/assets/71584786/99293d8d-1830-459c-b307-2ed07e504424)
 
 Metode yang digunakan untuk melatih model adalah EfficienNetB0. EfficientNetB0 adalah salah satu model arsitektur jaringan saraf tiruan (neural network) yang dirancang untuk tugas klasifikasi gambar. Model ini dikembangkan oleh tim Google Brain pada tahun 2019. Keunggulan utama dari EfficientNet adalah efisiensinya dalam menggunakan sumber daya komputasi, sehingga memberikan kinerja yang baik dengan ukuran model yang lebih kecil dibandingkan dengan arsitektur lainnya.EfficientNet memanfaatkan skala resolusi gambar, kedalaman jaringan (jumlah lapisan atau depth), dan lebar jaringan (jumlah filter atau width) secara optimal. Ini dicapai dengan menggunakan parameter skala (scale parameter) yang disesuaikan untuk menentukan ukuran model yang sesuai dengan tugas tertentu. Berikut adalah arsitektur dari EfficientNetB0 :
