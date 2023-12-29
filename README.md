@@ -1,4 +1,4 @@
-##AI Web Deployment
+## AI Web Deployment
 
 Projek ini untuk mendeteksi citra tangan gunting, batu, dan kertas menggunakan dataset rps
 Berikut adalah sample dari Dataset
